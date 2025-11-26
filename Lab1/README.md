@@ -1,0 +1,1 @@
+This repository contains my Lab 1 project for ECEN 121, where I wrote simple C programs for the STM32L476 Discovery board to generate a Fibonacci sequence, concatenate “Hello World” strings, and directly control the red and green LEDs via GPIO registers using a software delay loop calibrated from the 80 MHz system clock. The repository includes the written lab report.

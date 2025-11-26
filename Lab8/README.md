@@ -1,0 +1,1 @@
+This repository contains my Lab 8 project for ECEN 121, where I configured the STM32L476 Discovery board as a USB mass-storage host using FatFs to mount a flash drive, read the text file gburg.txt into memory with green/red LED status indication, recursively scan all files and directories, and write the results to dirlist.txt on the USB drive.

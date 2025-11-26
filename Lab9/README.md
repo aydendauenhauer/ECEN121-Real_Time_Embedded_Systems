@@ -1,0 +1,1 @@
+This repository contains my Lab 9 project for ECEN 121L, where I implemented a USB music player on the STM32L476 Discovery board. Timer-driven DAC code streams audio samples from a USB file, while additional timers, LCD routines, and an IR remote decoder handle playback control, volume changes, and on-screen status display.
